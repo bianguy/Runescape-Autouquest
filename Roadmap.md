@@ -4,3 +4,5 @@
 - [ ] Beginning coding with the repositories and pre-existing code as refernce - BOTH
 - [ ] Verify completed code - BOTH
 - [ ] Turn in completed assigment - BOTH
+- [ ] Sprint 1 Planning - COMPLETED
+- [ ] Forked Potential Repositories - COMPLETED
