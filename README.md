@@ -5,5 +5,9 @@ This program will provide the user with different options of quests and skills t
     1) Cooks assistant
     2) Restless ghost
     3) Sheep Sheerer
-
+  List of Skills:
+    1) Woodcutting
+    2) Firemaking
+    3) Fishing
+    4) Cooking
     
